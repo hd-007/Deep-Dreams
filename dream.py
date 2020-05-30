@@ -9,6 +9,7 @@ import tensorflow as tf
 import numpy as np
 import random
 import math
+import download1
 
 # Image manipulation.
 from PIL import Image
