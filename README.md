@@ -1,3 +1,3 @@
 # Deep-Dreams
 
-Can AI be creative? YESS!!
+Can A.I. be creative? YESS!!
