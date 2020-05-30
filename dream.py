@@ -2,14 +2,13 @@
 """
 Created on Fri May 22 23:30:01 2020
 
-@author: UKL
+@author: HD
 """
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy as np
 import random
 import math
-import download1
 
 # Image manipulation.
 from PIL import Image
@@ -336,4 +335,4 @@ for i in range (9,11):
                                     num_iterations=10, step_size=3, rescale_factor=1,
                                     num_repeats=4, blend=0.02)
         
-    #image_save=save_image(img_result,"bhu-gate-trippy-2.jpg")
+    #image_save=save_image(img_result,"Starry-Night-Deep-Dream.jpg")
